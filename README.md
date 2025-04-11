@@ -1,5 +1,4 @@
 # knight_tour
-# run Main.java
 
 The knight in chess can have access to 2, 3, 4, 6, or 8 squares, depending on its position.
 This algorithm randomly finds Knight tour path based on the lowest access value and also determines the accessible locations and the number of possible action for each starting point.
